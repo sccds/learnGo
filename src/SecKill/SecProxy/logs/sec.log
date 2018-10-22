@@ -1,0 +1,29 @@
+2018/10/19 15:19:13.409 [I] [main.go:14] init sec succ
+2018/10/19 15:19:13.419 [I] [asm_amd64.s:2361] http server Running on http://0.0.0.0:9091
+2018/10/19 17:39:07.082 [D] [init.go:117] key[%!s(int=0)] : value[key:"/zcz/secskill/product" create_revision:9 mod_revision:12 version:4 value:"[{\"ProductId\":1022,\"StartTime\":1539936089,\"EndTime\":1540108889,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1540108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ]
+2018/10/19 17:39:07.082 [I] [main.go:14] init sec succ
+2018/10/19 17:39:07.092 [I] [asm_amd64.s:2361] http server Running on http://0.0.0.0:9091
+2018/10/19 17:40:22.593 [D] [init.go:117] key[%!s(int=0)] : value[key:"/zcz/secskill/product" create_revision:9 mod_revision:12 version:4 value:"[{\"ProductId\":1022,\"StartTime\":1539936089,\"EndTime\":1540108889,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1540108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ]
+2018/10/19 17:40:22.593 [I] [main.go:14] init sec succ
+2018/10/19 17:40:22.602 [I] [asm_amd64.s:2361] http server Running on http://0.0.0.0:9091
+2018/10/19 17:41:10.509 [D] [init.go:116] key[%!s(int=0)] : value[key:"/zcz/secskill/product" create_revision:9 mod_revision:12 version:4 value:"[{\"ProductId\":1022,\"StartTime\":1539936089,\"EndTime\":1540108889,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1540108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ]
+2018/10/19 17:41:10.510 [I] [main.go:14] init sec succ
+2018/10/19 17:41:10.516 [I] [asm_amd64.s:2361] http server Running on http://0.0.0.0:9091
+2018/10/19 17:44:56.317 [D] [init.go:123] sec info config is [[{1022 1539936089 1540108889 0 10000 10000} {1032 1539936089 1540108889 0 900 900}]]
+2018/10/19 17:44:56.317 [I] [main.go:14] init sec succ
+2018/10/19 17:44:56.326 [I] [asm_amd64.s:2361] http server Running on http://0.0.0.0:9091
+2018/10/19 17:45:22.374 [D] [init.go:123] sec info config is [[{1022 1539936089 1540108889 0 10000 10000} {1032 1539936089 1540108889 0 900 900}]+]
+2018/10/19 17:45:22.374 [I] [main.go:14] init sec succ
+2018/10/19 17:45:22.382 [I] [asm_amd64.s:2361] http server Running on http://0.0.0.0:9091
+2018/10/19 17:45:34.417 [D] [init.go:123] sec info config is [[{%!V(int=1022) %!V(int=1539936089) %!V(int=1540108889) %!V(int=0) %!V(int=10000) %!V(int=10000)} {%!V(int=1032) %!V(int=1539936089) %!V(int=1540108889) %!V(int=0) %!V(int=900) %!V(int=900)}]]
+2018/10/19 17:45:34.418 [I] [main.go:14] init sec succ
+2018/10/19 17:45:34.423 [I] [asm_amd64.s:2361] http server Running on http://0.0.0.0:9091
+2018/10/19 18:01:22.881 [D] [init.go:123] sec info config is [[{1022 1539936089 1540108889 0 10000 10000} {1032 1539936089 1540108889 0 900 900}]]
+2018/10/19 18:01:22.881 [I] [main.go:14] init sec succ
+2018/10/19 18:01:22.888 [I] [asm_amd64.s:2361] http server Running on http://0.0.0.0:9091
+2018/10/19 18:05:50.832 [D] [init.go:123] sec info config is [[{1022 1539936089 1540108889 0 10000 10000} {1032 1539936089 1540108889 0 900 900}]]
+2018/10/19 18:05:50.833 [I] [main.go:14] init sec succ
+2018/10/19 18:05:50.850 [I] [asm_amd64.s:2361] http server Running on http://0.0.0.0:9091
+2018/10/19 18:07:55.401 [D] [init.go:123] sec info config is [[{1022 1539936089 1540108889 0 10000 10000} {1032 1539936089 1540108889 0 900 900}]]
+2018/10/19 18:07:55.401 [I] [main.go:14] init sec succ
+2018/10/19 18:07:55.412 [I] [asm_amd64.s:2361] http server Running on http://0.0.0.0:9091

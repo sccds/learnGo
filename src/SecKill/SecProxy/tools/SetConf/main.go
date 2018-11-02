@@ -36,20 +36,34 @@ func SetLogConfToEtcd() {
 	var secInfoConfArr []SecInfoConf
 
 	secInfoConfArr = append(
+		// normal product sec in progress
 		secInfoConfArr, SecInfoConf{
-			ProductId: 1022,
+			ProductId: 1032,
 			StartTime: 1539936089,
-			EndTime:   1540108889,
+			EndTime:   1640523153,
+			Status:    0,
+			Total:     10000,
+			Left:      10000,
+		},
+	)
+
+	secInfoConfArr = append(
+		// product sec end
+		secInfoConfArr, SecInfoConf{
+			ProductId: 1042,
+			StartTime: 1539936089,
+			EndTime:   1540521968,
 			Status:    0,
 			Total:     10000,
 			Left:      10000,
 		},
 	)
 	secInfoConfArr = append(
+		// product sec not start
 		secInfoConfArr, SecInfoConf{
-			ProductId: 1032,
-			StartTime: 1539936089,
-			EndTime:   1540108889,
+			ProductId: 1052,
+			StartTime: 1640521968,
+			EndTime:   1740108889,
 			Status:    0,
 			Total:     900,
 			Left:      900,

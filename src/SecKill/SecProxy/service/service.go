@@ -152,7 +152,7 @@ func SecKill(req *SecRequest) (data map[string]interface{}, code int, err error)
 	secKillConf.UserConnMap[userKey] = req.ResultChan
 
 	// 符合条件的，写入 redis, 接入层 => 业务逻辑层
-	secKillConf.secReqChan <- req
+	secKillConf.SecReqChan <- req
 	ticker := time.NewTicker(time.Second * 10) // 10s 没完成超时
 
 	defer func() {

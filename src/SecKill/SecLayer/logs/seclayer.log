@@ -4,3 +4,708 @@
 2018/10/31 17:11:58.620 [D] [proc.go:198] init logger succ
 2018/10/31 17:11:58.621 [D] [proc.go:198] init sec layer succ
 2018/10/31 17:11:58.621 [D] [proc.go:198] service run existed
+2018/11/14 10:25:01.110 [D] [proc.go:198] init logger succ
+2018/11/14 10:25:01.111 [D] [init.go:33] init etcd succ
+2018/11/14 10:25:01.111 [D] [proc.go:198] init sec layer succ
+2018/11/14 10:25:01.111 [D] [proc.go:198] service run existed
+2018/11/14 11:25:00.387 [D] [proc.go:198] init logger succ
+2018/11/14 11:25:00.388 [D] [init.go:33] init etcd succ
+2018/11/14 11:25:00.388 [D] [main.go:27] init etcd succ
+2018/11/14 11:25:00.388 [D] [init.go:41] start get product from etcd succ
+2018/11/14 11:25:00.400 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:22 raft_term:17  [] false 0}
+2018/11/14 11:25:00.400 [D] [init.go:41] update product info succ, data: []
+2018/11/14 11:25:00.400 [D] [main.go:27] load product from etcd succ
+2018/11/14 11:25:00.400 [D] [proc.go:198] init sec layer succ
+2018/11/14 11:25:00.400 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskillproduct
+2018/11/14 11:25:00.400 [D] [proc.go:198] service run existed
+2018/11/14 11:26:57.179 [D] [proc.go:198] init logger succ
+2018/11/14 11:26:57.185 [D] [init.go:33] init etcd succ
+2018/11/14 11:26:57.185 [D] [main.go:27] init etcd succ
+2018/11/14 11:26:57.185 [D] [init.go:41] start get product from etcd succ
+2018/11/14 11:26:57.201 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:22 raft_term:17  [] false 0}
+2018/11/14 11:26:57.201 [D] [init.go:41] update product info succ, data: []
+2018/11/14 11:26:57.201 [D] [main.go:27] load product from etcd succ
+2018/11/14 11:26:57.201 [D] [proc.go:198] init sec layer succ
+2018/11/14 11:26:57.201 [D] [proc.go:198] service run existed
+2018/11/14 11:29:03.366 [D] [proc.go:198] init logger succ
+2018/11/14 11:29:03.369 [D] [init.go:33] init etcd succ
+2018/11/14 11:29:03.369 [D] [main.go:27] init etcd succ
+2018/11/14 11:29:03.369 [D] [init.go:41] start get product from etcd succ
+2018/11/14 11:29:03.378 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:22 raft_term:17  [] false 0}
+2018/11/14 11:29:03.378 [D] [init.go:41] update product info succ, data: []
+2018/11/14 11:29:03.378 [D] [main.go:27] load product from etcd succ
+2018/11/14 11:29:03.378 [D] [proc.go:198] init sec layer succ
+2018/11/14 11:29:03.378 [D] [proc.go:198] service run existed
+2018/11/14 13:13:42.731 [D] [proc.go:198] init logger succ
+2018/11/14 13:13:42.737 [D] [init.go:33] init etcd succ
+2018/11/14 13:13:42.737 [D] [main.go:27] init etcd succ
+2018/11/14 13:13:42.737 [D] [init.go:41] start get product from etcd succ
+2018/11/14 13:13:42.739 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:22 raft_term:17  [] false 0}
+2018/11/14 13:13:42.739 [D] [init.go:41] update product info succ, data: []
+2018/11/14 13:13:42.739 [D] [main.go:27] load product from etcd succ
+2018/11/14 13:13:42.739 [D] [proc.go:198] init sec layer succ
+2018/11/14 13:13:42.739 [D] [proc.go:198] service run existed
+2018/11/14 13:25:44.845 [D] [proc.go:198] init logger succ
+2018/11/14 13:25:44.846 [D] [init.go:33] init etcd succ
+2018/11/14 13:25:44.846 [D] [main.go:27] init etcd succ
+2018/11/14 13:25:44.846 [D] [init.go:41] start get product from etcd succ
+2018/11/14 13:25:44.849 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:22 raft_term:17  [] false 0}
+2018/11/14 13:25:44.849 [D] [init.go:41] update product info succ, data: []
+2018/11/14 13:25:44.849 [D] [main.go:27] load product from etcd succ
+2018/11/14 13:25:44.850 [D] [proc.go:198] init sec layer succ
+2018/11/14 13:25:44.850 [D] [proc.go:198] service run existed
+2018/11/14 13:28:00.638 [D] [proc.go:198] init logger succ
+2018/11/14 13:28:00.639 [D] [init.go:33] init etcd succ
+2018/11/14 13:28:00.639 [D] [main.go:27] init etcd succ
+2018/11/14 13:28:00.639 [D] [init.go:41] start get product from etcd succ
+2018/11/14 13:28:00.642 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:22 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ] false 1}
+2018/11/14 13:28:00.642 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ]
+2018/11/14 13:28:00.642 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]]
+2018/11/14 13:28:00.642 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]
+2018/11/14 13:28:00.642 [D] [main.go:27] load product from etcd succ
+2018/11/14 13:28:00.642 [D] [proc.go:198] init sec layer succ
+2018/11/14 13:28:00.642 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/14 13:28:00.643 [D] [proc.go:198] service run existed
+2018/11/15 10:16:43.891 [D] [proc.go:198] init logger succ
+2018/11/15 10:16:43.895 [D] [init.go:33] init etcd succ
+2018/11/15 10:16:43.896 [D] [main.go:27] init etcd succ
+2018/11/15 10:16:43.896 [D] [init.go:41] start get product from etcd succ
+2018/11/15 10:16:43.914 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:22 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ] false 1}
+2018/11/15 10:16:43.914 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ]
+2018/11/15 10:16:43.914 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]]
+2018/11/15 10:16:43.914 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]
+2018/11/15 10:16:43.914 [D] [main.go:27] load product from etcd succ
+2018/11/15 10:16:43.914 [D] [proc.go:198] init sec layer succ
+2018/11/15 10:16:43.914 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/15 10:16:43.915 [D] [proc.go:198] service run existed
+2018/11/16 10:41:22.194 [D] [proc.go:198] init logger succ
+2018/11/16 10:41:22.199 [D] [init.go:33] init etcd succ
+2018/11/16 10:41:22.199 [D] [main.go:27] init etcd succ
+2018/11/16 10:41:22.199 [D] [init.go:41] start get product from etcd
+2018/11/16 10:41:22.239 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:22 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ] false 1}
+2018/11/16 10:41:22.239 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ]
+2018/11/16 10:41:22.240 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]]
+2018/11/16 10:41:22.240 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]
+2018/11/16 10:41:22.240 [D] [main.go:27] load product from etcd succ
+2018/11/16 10:41:22.240 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/16 10:41:22.240 [D] [proc.go:198] init sec layer succ
+2018/11/16 10:41:22.240 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:41:22.240 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:41:22.240 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:41:22.240 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:41:22.241 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:41:22.241 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:41:22.240 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:41:22.241 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:41:22.240 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:41:22.241 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:41:22.241 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:41:22.241 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:41:22.241 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:41:22.241 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:41:22.241 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:41:22.240 [D] [proc.go:198] service run existed
+2018/11/16 10:48:10.274 [D] [proc.go:198] init logger succ
+2018/11/16 10:48:10.275 [D] [init.go:33] init etcd succ
+2018/11/16 10:48:10.275 [D] [main.go:27] init etcd succ
+2018/11/16 10:48:10.275 [D] [init.go:41] start get product from etcd
+2018/11/16 10:48:10.280 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:22 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ] false 1}
+2018/11/16 10:48:10.280 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ]
+2018/11/16 10:48:10.280 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]]
+2018/11/16 10:48:10.280 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]
+2018/11/16 10:48:10.280 [D] [main.go:27] load product from etcd succ
+2018/11/16 10:48:10.281 [D] [proc.go:198] init sec layer succ
+2018/11/16 10:48:10.281 [D] [proc.go:198] service run existed
+2018/11/16 10:48:39.216 [D] [proc.go:198] init logger succ
+2018/11/16 10:48:39.218 [D] [init.go:33] init etcd succ
+2018/11/16 10:48:39.218 [D] [main.go:27] init etcd succ
+2018/11/16 10:48:39.218 [D] [init.go:41] start get product from etcd
+2018/11/16 10:48:39.228 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:22 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ] false 1}
+2018/11/16 10:48:39.228 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ]
+2018/11/16 10:48:39.231 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]]
+2018/11/16 10:48:39.231 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]
+2018/11/16 10:48:39.231 [D] [main.go:27] load product from etcd succ
+2018/11/16 10:48:39.231 [D] [proc.go:198] init sec layer succ
+2018/11/16 10:48:39.232 [D] [proc.go:198] service run existed
+2018/11/16 10:56:33.650 [D] [proc.go:198] init logger succ
+2018/11/16 10:56:33.651 [D] [init.go:33] init etcd succ
+2018/11/16 10:56:33.651 [D] [main.go:27] init etcd succ
+2018/11/16 10:56:33.651 [D] [init.go:41] start get product from etcd
+2018/11/16 10:56:33.653 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:22 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ] false 1}
+2018/11/16 10:56:33.653 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ]
+2018/11/16 10:56:33.654 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]]
+2018/11/16 10:56:33.654 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]
+2018/11/16 10:56:33.654 [D] [main.go:27] load product from etcd succ
+2018/11/16 10:56:33.654 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/16 10:56:33.654 [D] [proc.go:198] init sec layer succ
+2018/11/16 10:56:33.654 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:56:33.654 [D] [service.go:5] before handle reader
+2018/11/16 10:56:33.654 [D] [service.go:5] before handle reader
+2018/11/16 10:56:33.654 [D] [service.go:5] before handle reader
+2018/11/16 10:56:33.654 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:56:33.654 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:56:33.654 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:56:33.654 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:56:33.654 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:56:33.654 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:56:33.654 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:56:33.654 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:56:33.655 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:56:33.655 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:56:33.654 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:56:33.654 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:56:33.654 [D] [service.go:5] before handle reader
+2018/11/16 10:56:33.654 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:56:33.654 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:56:33.656 [D] [service.go:5] before handle reader
+2018/11/16 10:56:33.654 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:56:33.656 [D] [service.go:5] before handle reader
+2018/11/16 10:56:33.656 [D] [service.go:5] before handle reader
+2018/11/16 10:56:33.656 [D] [service.go:5] before handle reader
+2018/11/16 10:56:33.656 [D] [service.go:5] before handle reader
+2018/11/16 10:56:33.656 [D] [service.go:5] before handle reader
+2018/11/16 10:56:33.656 [D] [service.go:5] before handle reader
+2018/11/16 10:56:33.656 [D] [service.go:5] before handle reader
+2018/11/16 10:56:33.656 [D] [service.go:5] before handle reader
+2018/11/16 10:56:33.656 [D] [service.go:5] before handle reader
+2018/11/16 10:56:33.656 [D] [service.go:5] before handle reader
+2018/11/16 10:56:33.656 [D] [service.go:5] before handle reader
+2018/11/16 10:56:33.656 [D] [proc.go:198] service run existed
+2018/11/16 10:57:25.989 [D] [proc.go:198] init logger succ
+2018/11/16 10:57:25.990 [D] [init.go:33] init etcd succ
+2018/11/16 10:57:25.990 [D] [main.go:27] init etcd succ
+2018/11/16 10:57:25.990 [D] [init.go:41] start get product from etcd
+2018/11/16 10:57:25.993 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:22 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ] false 1}
+2018/11/16 10:57:25.993 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ]
+2018/11/16 10:57:25.993 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]]
+2018/11/16 10:57:25.993 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]
+2018/11/16 10:57:25.993 [D] [main.go:27] load product from etcd succ
+2018/11/16 10:57:25.993 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/16 10:57:25.993 [D] [proc.go:198] init sec layer succ
+2018/11/16 10:57:25.994 [D] [proc.go:198] service run existed
+2018/11/16 10:57:35.227 [D] [proc.go:198] init logger succ
+2018/11/16 10:57:35.228 [D] [init.go:33] init etcd succ
+2018/11/16 10:57:35.229 [D] [main.go:27] init etcd succ
+2018/11/16 10:57:35.229 [D] [init.go:41] start get product from etcd
+2018/11/16 10:57:35.232 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:22 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ] false 1}
+2018/11/16 10:57:35.232 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ]
+2018/11/16 10:57:35.233 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]]
+2018/11/16 10:57:35.233 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]
+2018/11/16 10:57:35.233 [D] [main.go:27] load product from etcd succ
+2018/11/16 10:57:35.233 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/16 10:57:35.233 [D] [proc.go:198] init sec layer succ
+2018/11/16 10:57:35.233 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:57:35.233 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:57:35.233 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:57:35.233 [D] [proc.go:198] service run existed
+2018/11/16 10:58:33.479 [D] [proc.go:198] init logger succ
+2018/11/16 10:58:33.481 [D] [init.go:33] init etcd succ
+2018/11/16 10:58:33.481 [D] [main.go:27] init etcd succ
+2018/11/16 10:58:33.481 [D] [init.go:41] start get product from etcd
+2018/11/16 10:58:33.486 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:22 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ] false 1}
+2018/11/16 10:58:33.486 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ]
+2018/11/16 10:58:33.486 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]]
+2018/11/16 10:58:33.487 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]
+2018/11/16 10:58:33.487 [D] [main.go:27] load product from etcd succ
+2018/11/16 10:58:33.487 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/16 10:58:33.487 [D] [proc.go:198] init sec layer succ
+2018/11/16 10:58:33.487 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:58:33.487 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:58:33.488 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:58:33.488 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:58:33.488 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:58:33.488 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:58:33.488 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:58:33.489 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:58:33.488 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:58:33.489 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:58:33.489 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:58:33.488 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:58:33.488 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:58:33.488 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:58:33.488 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:58:33.488 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:59:10.511 [D] [proc.go:198] init logger succ
+2018/11/16 10:59:10.512 [D] [init.go:33] init etcd succ
+2018/11/16 10:59:10.513 [D] [main.go:27] init etcd succ
+2018/11/16 10:59:10.513 [D] [init.go:41] start get product from etcd
+2018/11/16 10:59:10.516 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:22 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ] false 1}
+2018/11/16 10:59:10.516 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ]
+2018/11/16 10:59:10.516 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]]
+2018/11/16 10:59:10.516 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000} {1042 1539936089 1540521968 0 10000 10000} {1052 1640521968 1740108889 0 900 900}]
+2018/11/16 10:59:10.516 [D] [main.go:27] load product from etcd succ
+2018/11/16 10:59:10.516 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/16 10:59:10.516 [D] [proc.go:198] init sec layer succ
+2018/11/16 10:59:10.519 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:59:10.519 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:59:10.519 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:59:10.519 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:59:10.519 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:59:10.519 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:59:10.519 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:59:10.519 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:59:10.519 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:59:10.519 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:59:10.519 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:59:10.519 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:59:10.519 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:59:10.519 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:59:10.519 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:59:10.519 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 10:59:10.522 [D] [proc.go:198] service run existed
+2018/11/16 14:31:52.446 [D] [proc.go:198] init logger succ
+2018/11/16 14:31:52.449 [D] [init.go:33] init etcd succ
+2018/11/16 14:31:52.449 [D] [main.go:27] init etcd succ
+2018/11/16 14:31:52.449 [D] [init.go:41] start get product from etcd
+2018/11/16 14:31:52.450 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:22 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ] false 1}
+2018/11/16 14:31:52.451 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:22 version:14 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900}]" ]
+2018/11/16 14:31:52.451 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0}]]
+2018/11/16 14:31:52.451 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0}]
+2018/11/16 14:31:52.451 [D] [main.go:27] load product from etcd succ
+2018/11/16 14:31:52.451 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/16 14:31:52.454 [D] [proc.go:198] init sec layer succ
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] handle writer running
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] handle writer running
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] handle user running
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] handle writer running
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] handle writer running
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] handle writer running
+2018/11/16 14:31:52.455 [D] [asm_amd64.s:2361] handle writer running
+2018/11/16 14:31:52.455 [D] [proc.go:198] service run existed
+2018/11/18 18:20:23.952 [D] [proc.go:198] init logger succ
+2018/11/18 18:20:23.978 [D] [init.go:33] init etcd succ
+2018/11/18 18:20:23.980 [D] [main.go:27] init etcd succ
+2018/11/18 18:20:23.980 [D] [init.go:41] start get product from etcd
+2018/11/18 18:20:23.996 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:24 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ] false 1}
+2018/11/18 18:20:23.997 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ]
+2018/11/18 18:20:23.998 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]]
+2018/11/18 18:20:23.998 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]
+2018/11/18 18:20:23.998 [D] [main.go:27] load product from etcd succ
+2018/11/18 18:20:23.998 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/18 18:20:24.003 [D] [proc.go:198] init sec layer succ
+2018/11/18 18:20:24.003 [D] [proc.go:198] service run existed
+2018/11/18 18:34:38.653 [D] [proc.go:198] init logger succ
+2018/11/18 18:34:38.656 [D] [init.go:33] init etcd succ
+2018/11/18 18:34:38.657 [D] [main.go:27] init etcd succ
+2018/11/18 18:34:38.657 [D] [init.go:41] start get product from etcd
+2018/11/18 18:34:38.659 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:24 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ] false 1}
+2018/11/18 18:34:38.659 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ]
+2018/11/18 18:34:38.664 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]]
+2018/11/18 18:34:38.664 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]
+2018/11/18 18:34:38.664 [D] [main.go:27] load product from etcd succ
+2018/11/18 18:34:38.664 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/18 18:34:38.667 [D] [proc.go:198] init sec layer succ
+2018/11/18 18:34:38.667 [D] [service.go:5] all process goroutine start
+2018/11/18 18:34:38.667 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:34:38.667 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:34:38.667 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:34:38.667 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:34:38.667 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:34:38.667 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:34:38.667 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:34:38.667 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:34:38.669 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:34:38.669 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:34:38.669 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:34:38.669 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:34:38.669 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:34:38.669 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:34:38.667 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:34:38.667 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:34:38.667 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:34:38.669 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:34:38.669 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:34:38.669 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:34:38.669 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:34:38.669 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:34:38.668 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:35:18.934 [D] [proc.go:198] init logger succ
+2018/11/18 18:35:18.939 [D] [init.go:33] init etcd succ
+2018/11/18 18:35:18.939 [D] [main.go:27] init etcd succ
+2018/11/18 18:35:18.939 [D] [init.go:41] start get product from etcd
+2018/11/18 18:35:18.941 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:24 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ] false 1}
+2018/11/18 18:35:18.941 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ]
+2018/11/18 18:35:18.941 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]]
+2018/11/18 18:35:18.941 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]
+2018/11/18 18:35:18.942 [D] [main.go:27] load product from etcd succ
+2018/11/18 18:35:18.942 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/18 18:35:18.945 [D] [proc.go:198] init sec layer succ
+2018/11/18 18:35:18.946 [D] [service.go:5] all process goroutine start
+2018/11/18 18:35:18.946 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:35:18.946 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:35:18.946 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:35:18.946 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:35:18.947 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:35:18.948 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:35:18.949 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:35:18.949 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:35:18.949 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:35:18.949 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:35:18.949 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:35:18.949 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:35:18.949 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:35:18.949 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:35:18.949 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:35:18.949 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:35:18.950 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:35:18.950 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:35:18.950 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:35:18.950 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:35:18.950 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:35:18.950 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:35:18.950 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:35:18.950 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:35:18.950 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:35:18.950 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:35:18.950 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:35:18.951 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:35:18.951 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:35:18.952 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:35:18.952 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:35:18.951 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:35:18.949 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:35:18.952 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:35:18.951 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:35:18.951 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:35:18.951 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:35:18.951 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 18:35:18.951 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:35:18.952 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:35:18.952 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:35:18.952 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:35:18.950 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:35:18.953 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:35:18.953 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:35:18.953 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 18:35:18.950 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 18:35:18.950 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 19:03:28.884 [D] [proc.go:198] init logger succ
+2018/11/18 19:03:28.885 [D] [init.go:33] init etcd succ
+2018/11/18 19:03:28.885 [D] [main.go:27] init etcd succ
+2018/11/18 19:03:28.885 [D] [init.go:41] start get product from etcd
+2018/11/18 19:03:28.888 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:24 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ] false 1}
+2018/11/18 19:03:28.888 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ]
+2018/11/18 19:03:28.888 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]]
+2018/11/18 19:03:28.889 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]
+2018/11/18 19:03:28.889 [D] [init.go:41] init etcd watcher succ
+2018/11/18 19:03:28.889 [D] [main.go:27] load product from etcd succ
+2018/11/18 19:03:28.889 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/18 19:03:28.892 [D] [main.go:27] init all succ
+2018/11/18 19:03:28.892 [D] [proc.go:198] init sec layer succ
+2018/11/18 19:03:28.892 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 19:03:28.892 [D] [service.go:5] all process goroutine start
+2018/11/18 19:03:28.892 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 19:03:28.892 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 19:03:28.892 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 19:03:28.892 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 19:03:28.892 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 19:03:28.892 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 19:03:28.894 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 19:03:28.894 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 19:03:28.894 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 19:03:28.894 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 19:03:28.894 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 19:03:28.894 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 19:03:28.894 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 19:03:28.894 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 19:03:28.894 [D] [asm_amd64.s:2361] read goroutine running
+2018/11/18 19:03:28.894 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 19:03:28.894 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 19:03:28.894 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 19:03:28.894 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 19:03:28.894 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 19:03:28.893 [D] [asm_amd64.s:2361] handle user running
+2018/11/18 19:03:28.894 [D] [asm_amd64.s:2361] handle writer running
+2018/11/18 19:06:44.746 [D] [proc.go:198] init logger succ
+2018/11/18 19:06:44.752 [D] [init.go:33] init etcd succ
+2018/11/18 19:06:44.752 [D] [main.go:27] init etcd succ
+2018/11/18 19:06:44.752 [D] [init.go:41] start get product from etcd
+2018/11/18 19:06:44.755 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:24 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ] false 1}
+2018/11/18 19:06:44.756 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ]
+2018/11/18 19:06:44.756 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]]
+2018/11/18 19:06:44.757 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]
+2018/11/18 19:06:44.757 [D] [init.go:41] init etcd watcher succ
+2018/11/18 19:06:44.757 [D] [main.go:27] load product from etcd succ
+2018/11/18 19:06:44.757 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/18 19:06:44.763 [D] [main.go:27] init all succ
+2018/11/18 19:06:44.763 [D] [proc.go:198] init sec layer succ
+2018/11/18 19:06:44.766 [D] [service.go:5] all process goroutine start
+2018/11/18 19:11:56.377 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":4,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T19:11:56.373048498+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 19:11:56.378 [D] [asm_amd64.s:2361] begin process request: &{4     0  2018-11-18 19:11:56.373048498 +0800 CST 127.0.0.1 }
+2018/11/18 19:19:37.126 [D] [proc.go:198] init logger succ
+2018/11/18 19:19:37.128 [D] [init.go:33] init etcd succ
+2018/11/18 19:19:37.128 [D] [main.go:27] init etcd succ
+2018/11/18 19:19:37.128 [D] [init.go:41] start get product from etcd
+2018/11/18 19:19:37.145 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:24 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ] false 1}
+2018/11/18 19:19:37.146 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ]
+2018/11/18 19:19:37.146 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]]
+2018/11/18 19:19:37.147 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]
+2018/11/18 19:19:37.147 [D] [init.go:41] init etcd watcher succ
+2018/11/18 19:19:37.147 [D] [main.go:27] load product from etcd succ
+2018/11/18 19:19:37.147 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/18 19:19:37.152 [D] [main.go:27] init all succ
+2018/11/18 19:19:37.152 [D] [proc.go:198] init sec layer succ
+2018/11/18 19:19:37.153 [D] [service.go:5] all process goroutine start
+2018/11/18 19:19:40.425 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":4,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T19:19:40.417093654+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 19:19:40.428 [D] [asm_amd64.s:2361] begin process request: &{4     0  2018-11-18 19:19:40.417093654 +0800 CST 127.0.0.1 }
+2018/11/18 19:22:46.926 [D] [proc.go:198] init logger succ
+2018/11/18 19:22:46.932 [D] [init.go:33] init etcd succ
+2018/11/18 19:22:46.932 [D] [main.go:27] init etcd succ
+2018/11/18 19:22:46.932 [D] [init.go:41] start get product from etcd
+2018/11/18 19:22:46.943 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:24 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ] false 1}
+2018/11/18 19:22:46.944 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ]
+2018/11/18 19:22:46.945 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]]
+2018/11/18 19:22:46.945 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]
+2018/11/18 19:22:46.945 [D] [init.go:41] init etcd watcher succ
+2018/11/18 19:22:46.945 [D] [main.go:27] load product from etcd succ
+2018/11/18 19:22:46.946 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/18 19:22:46.959 [D] [main.go:27] init all succ
+2018/11/18 19:22:46.959 [D] [proc.go:198] init sec layer succ
+2018/11/18 19:22:46.959 [D] [service.go:5] all process goroutine start
+2018/11/18 19:22:50.476 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":4,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T19:22:50.465931439+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 19:22:50.477 [D] [asm_amd64.s:2361] begin process request: &{4     0  2018-11-18 19:22:50.465931439 +0800 CST 127.0.0.1 }
+2018/11/18 19:23:02.432 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":4,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T19:23:02.428339884+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 19:23:02.434 [D] [asm_amd64.s:2361] begin process request: &{4     0  2018-11-18 19:23:02.428339884 +0800 CST 127.0.0.1 }
+2018/11/18 19:23:14.695 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":4,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T19:23:14.692195261+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 19:23:14.696 [D] [asm_amd64.s:2361] begin process request: &{4     0  2018-11-18 19:23:14.692195261 +0800 CST 127.0.0.1 }
+2018/11/18 19:25:06.121 [D] [proc.go:198] init logger succ
+2018/11/18 19:25:06.125 [D] [init.go:33] init etcd succ
+2018/11/18 19:25:06.125 [D] [main.go:27] init etcd succ
+2018/11/18 19:25:06.125 [D] [init.go:41] start get product from etcd
+2018/11/18 19:25:06.130 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:24 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ] false 1}
+2018/11/18 19:25:06.130 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ]
+2018/11/18 19:25:06.131 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]]
+2018/11/18 19:25:06.131 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]
+2018/11/18 19:25:06.131 [D] [init.go:41] init etcd watcher succ
+2018/11/18 19:25:06.131 [D] [main.go:27] load product from etcd succ
+2018/11/18 19:25:06.131 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/18 19:25:06.136 [D] [main.go:27] init all succ
+2018/11/18 19:25:06.136 [D] [proc.go:198] init sec layer succ
+2018/11/18 19:25:06.137 [D] [service.go:5] all process goroutine start
+2018/11/18 19:25:09.534 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":4,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T19:25:09.529925587+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 19:25:09.538 [D] [asm_amd64.s:2361] begin process request: &{4     0  2018-11-18 19:25:09.529925587 +0800 CST 127.0.0.1 }
+2018/11/18 19:25:09.539 [D] [asm_amd64.s:2361] handel user res: &{4 0  0 1005}
+2018/11/18 19:27:50.037 [D] [proc.go:198] init logger succ
+2018/11/18 19:27:50.038 [D] [init.go:33] init etcd succ
+2018/11/18 19:27:50.038 [D] [main.go:27] init etcd succ
+2018/11/18 19:27:50.038 [D] [init.go:41] start get product from etcd
+2018/11/18 19:27:50.044 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:24 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ] false 1}
+2018/11/18 19:27:50.044 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ]
+2018/11/18 19:27:50.045 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]]
+2018/11/18 19:27:50.046 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]
+2018/11/18 19:27:50.046 [D] [init.go:41] init etcd watcher succ
+2018/11/18 19:27:50.046 [D] [main.go:27] load product from etcd succ
+2018/11/18 19:27:50.046 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/18 19:27:50.050 [D] [main.go:27] init all succ
+2018/11/18 19:27:50.050 [D] [proc.go:198] init sec layer succ
+2018/11/18 19:27:50.050 [D] [service.go:5] all process goroutine start
+2018/11/18 19:27:52.919 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":4,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T19:27:52.915195095+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 19:27:52.922 [D] [asm_amd64.s:2361] begin process request: &{4     0  2018-11-18 19:27:52.915195095 +0800 CST 127.0.0.1 }
+2018/11/18 19:27:52.922 [D] [redis.go:140] product check succ
+2018/11/18 19:27:52.922 [D] [asm_amd64.s:2361] handel user res: &{4 0  0 1005}
+2018/11/18 19:35:24.320 [D] [proc.go:198] init logger succ
+2018/11/18 19:35:24.322 [D] [init.go:33] init etcd succ
+2018/11/18 19:35:24.323 [D] [main.go:27] init etcd succ
+2018/11/18 19:35:24.323 [D] [init.go:41] start get product from etcd
+2018/11/18 19:35:24.325 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:24 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ] false 1}
+2018/11/18 19:35:24.326 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ]
+2018/11/18 19:35:24.326 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]]
+2018/11/18 19:35:24.326 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]
+2018/11/18 19:35:24.326 [D] [init.go:41] init etcd watcher succ
+2018/11/18 19:35:24.326 [D] [main.go:27] load product from etcd succ
+2018/11/18 19:35:24.326 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/18 19:35:24.333 [D] [main.go:27] init all succ
+2018/11/18 19:35:24.333 [D] [proc.go:198] init sec layer succ
+2018/11/18 19:35:24.333 [D] [service.go:5] all process goroutine start
+2018/11/18 19:35:34.725 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":4,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T19:35:34.71635+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 19:35:34.726 [D] [asm_amd64.s:2361] begin process request: &{4     0  2018-11-18 19:35:34.71635 +0800 CST 127.0.0.1 }
+2018/11/18 19:35:34.726 [D] [redis.go:140] product check succ
+2018/11/18 19:35:34.726 [D] [redis.go:140] product soldlimit: 0
+2018/11/18 19:35:34.726 [D] [asm_amd64.s:2361] handel user res: &{4 0  0 1005}
+2018/11/18 19:40:48.517 [D] [proc.go:198] init logger succ
+2018/11/18 19:40:48.521 [D] [init.go:33] init etcd succ
+2018/11/18 19:40:48.521 [D] [main.go:27] init etcd succ
+2018/11/18 19:40:48.521 [D] [init.go:41] start get product from etcd
+2018/11/18 19:40:48.527 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:24 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ] false 1}
+2018/11/18 19:40:48.527 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ]
+2018/11/18 19:40:48.528 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]]
+2018/11/18 19:40:48.528 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]
+2018/11/18 19:40:48.528 [D] [init.go:41] init etcd watcher succ
+2018/11/18 19:40:48.528 [D] [main.go:27] load product from etcd succ
+2018/11/18 19:40:48.528 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/18 19:40:48.531 [D] [main.go:27] init all succ
+2018/11/18 19:40:48.531 [D] [proc.go:198] init sec layer succ
+2018/11/18 19:40:48.531 [D] [service.go:5] all process goroutine start
+2018/11/18 19:40:53.183 [D] [asm_amd64.s:2361] pop from queue, data: [123 34 80 114 111 100 117 99 116 73 100 34 58 52 44 34 83 111 117 114 99 101 34 58 34 34 44 34 65 117 116 104 99 111 100 101 34 58 34 34 44 34 83 101 99 84 105 109 101 34 58 34 34 44 34 78 97 110 99 101 34 58 34 34 44 34 85 115 101 114 73 100 34 58 48 44 34 65 99 99 101 115 115 84 105 109 101 34 58 34 50 48 49 56 45 49 49 45 49 56 84 49 57 58 52 48 58 53 50 46 57 57 49 56 50 48 53 49 56 43 48 56 58 48 48 34 44 34 85 115 101 114 65 117 116 104 83 105 103 110 34 58 34 34 44 34 67 108 105 101 110 116 65 100 100 114 34 58 34 49 50 55 46 48 46 48 46 49 34 44 34 67 108 105 101 110 116 82 101 102 101 114 101 110 99 101 34 58 34 34 125]
+2018/11/18 19:40:53.184 [D] [asm_amd64.s:2361] begin process request: &{4     0  2018-11-18 19:40:52.991820518 +0800 CST 127.0.0.1 }
+2018/11/18 19:40:53.186 [D] [redis.go:140] product check succ
+2018/11/18 19:40:53.186 [D] [redis.go:140] product soldlimit: 0
+2018/11/18 19:40:53.186 [D] [asm_amd64.s:2361] handel user res: &{4 0  0 1005}
+2018/11/18 19:41:38.638 [D] [proc.go:198] init logger succ
+2018/11/18 19:41:38.641 [D] [init.go:33] init etcd succ
+2018/11/18 19:41:38.641 [D] [main.go:27] init etcd succ
+2018/11/18 19:41:38.641 [D] [init.go:41] start get product from etcd
+2018/11/18 19:41:38.657 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:24 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ] false 1}
+2018/11/18 19:41:38.658 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:24 version:16 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldMaxLimit\":1}]" ]
+2018/11/18 19:41:38.658 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]]
+2018/11/18 19:41:38.658 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8}]
+2018/11/18 19:41:38.658 [D] [init.go:41] init etcd watcher succ
+2018/11/18 19:41:38.658 [D] [main.go:27] load product from etcd succ
+2018/11/18 19:41:38.658 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/18 19:41:38.664 [D] [main.go:27] init all succ
+2018/11/18 19:41:38.664 [D] [proc.go:198] init sec layer succ
+2018/11/18 19:41:38.665 [D] [service.go:5] all process goroutine start
+2018/11/18 19:42:13.281 [D] [asm_amd64.s:2361] get config from etcd, PUT "/zcz/secskill/product":"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldLimit\":0},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldLimit\":0},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldLimit\":1}]"
+
+2018/11/18 19:43:33.754 [D] [asm_amd64.s:2361] get config from etcd, PUT "/zcz/secskill/product":"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldLimit\":0},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldLimit\":0},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldLimit\":1},{\"ProductId\":5,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1002,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldLimit\":2}]"
+
+2018/11/18 19:44:14.070 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":5,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T19:44:14.046946071+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 19:44:14.077 [D] [asm_amd64.s:2361] begin process request: &{5     0  2018-11-18 19:44:14.046946071 +0800 CST 127.0.0.1 }
+2018/11/18 19:44:14.077 [E] [redis.go:140] not found product: 5
+2018/11/18 19:44:14.077 [D] [asm_amd64.s:2361] handel user res: &{5 0  0 1003}
+2018/11/18 19:46:19.291 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":5,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T19:46:19.282446338+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 19:46:19.293 [D] [asm_amd64.s:2361] begin process request: &{5     0  2018-11-18 19:46:19.282446338 +0800 CST 127.0.0.1 }
+2018/11/18 19:46:19.294 [E] [redis.go:140] not found product: 5
+2018/11/18 19:46:19.294 [D] [asm_amd64.s:2361] handel user res: &{5 0  0 1003}
+2018/11/18 19:57:54.397 [D] [proc.go:198] init logger succ
+2018/11/18 19:57:54.400 [D] [init.go:33] init etcd succ
+2018/11/18 19:57:54.400 [D] [main.go:27] init etcd succ
+2018/11/18 19:57:54.400 [D] [init.go:41] start get product from etcd
+2018/11/18 19:57:54.409 [D] [init.go:41] get product from etcd succ, resp: &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:26 raft_term:17  [key:"/zcz/secskill/product" create_revision:9 mod_revision:26 version:18 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldLimit\":0},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldLimit\":0},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldLimit\":1},{\"ProductId\":5,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1002,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldLimit\":2}]" ] false 1}
+2018/11/18 19:57:54.410 [D] [init.go:41] key[0] val[key:"/zcz/secskill/product" create_revision:9 mod_revision:26 version:18 value:"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyList\":0,\"BuyRate\":0,\"SoldLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldLimit\":0},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldLimit\":0},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldLimit\":1},{\"ProductId\":5,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1002,\"Left\":0,\"OnePersonBuyList\":0,\"BuyRate\":0.8,\"SoldLimit\":2}]" ]
+2018/11/18 19:57:54.410 [D] [init.go:41] sec info conf is [[{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 1 0 0.8} {5 1542530848 1543567648 0 1002 0 <nil> 2 0 0.8}]]
+2018/11/18 19:57:54.410 [D] [init.go:41] update product info succ, data: [{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 1 0 0.8} {5 1542530848 1543567648 0 1002 0 <nil> 2 0 0.8}]
+2018/11/18 19:57:54.410 [D] [init.go:41] init etcd watcher succ
+2018/11/18 19:57:54.410 [D] [main.go:27] load product from etcd succ
+2018/11/18 19:57:54.410 [D] [asm_amd64.s:2361] begin watch key: /zcz/secskill/product
+2018/11/18 19:57:54.416 [D] [main.go:27] init all succ
+2018/11/18 19:57:54.417 [D] [proc.go:198] init sec layer succ
+2018/11/18 19:57:54.417 [D] [service.go:5] all process goroutine start
+2018/11/18 19:57:59.236 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":5,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T19:57:59.227011807+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 19:57:59.237 [W] [asm_amd64.s:2361] send to handle chan timeout, req: {5     0  2018-11-18 19:57:59.227011807 +0800 CST 127.0.0.1 }
+2018/11/18 19:58:36.323 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":5,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T19:58:36.312388896+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 19:58:36.325 [D] [asm_amd64.s:2361] begin process request: &{5     0  2018-11-18 19:58:36.312388896 +0800 CST 127.0.0.1 }
+2018/11/18 19:58:36.327 [D] [redis.go:140] product check succ
+2018/11/18 19:58:36.327 [D] [redis.go:140] product soldlimit: 2
+2018/11/18 19:58:36.327 [D] [redis.go:140] speed limit succ
+2018/11/18 19:58:36.327 [D] [asm_amd64.s:2361] handel user res: &{5 0  0 1006}
+2018/11/18 19:59:12.242 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":5,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T19:59:12.23843547+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 19:59:12.243 [D] [asm_amd64.s:2361] begin process request: &{5     0  2018-11-18 19:59:12.23843547 +0800 CST 127.0.0.1 }
+2018/11/18 19:59:12.243 [D] [redis.go:140] product check succ
+2018/11/18 19:59:12.243 [D] [redis.go:140] product soldlimit: 2
+2018/11/18 19:59:12.243 [D] [redis.go:140] speed limit succ
+2018/11/18 19:59:12.243 [D] [asm_amd64.s:2361] handel user res: &{5 0  0 1006}
+2018/11/18 20:08:45.254 [D] [asm_amd64.s:2361] get config from etcd, PUT "/zcz/secskill/product":"[{\"ProductId\":1032,\"StartTime\":1539936089,\"EndTime\":1640523153,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyLimit\":0,\"BuyRate\":0,\"SoldLimit\":0},{\"ProductId\":1042,\"StartTime\":1539936089,\"EndTime\":1540521968,\"Status\":0,\"Total\":10000,\"Left\":10000,\"OnePersonBuyLimit\":0,\"BuyRate\":0,\"SoldLimit\":0},{\"ProductId\":1052,\"StartTime\":1640521968,\"EndTime\":1740108889,\"Status\":0,\"Total\":900,\"Left\":900,\"OnePersonBuyLimit\":0,\"BuyRate\":0,\"SoldLimit\":0},{\"ProductId\":2,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyLimit\":0,\"BuyRate\":0.8,\"SoldLimit\":0},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyLimit\":0,\"BuyRate\":0.8,\"SoldLimit\":0},{\"ProductId\":4,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1001,\"Left\":0,\"OnePersonBuyLimit\":0,\"BuyRate\":0.8,\"SoldLimit\":1},{\"ProductId\":5,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1002,\"Left\":0,\"OnePersonBuyLimit\":0,\"BuyRate\":0.8,\"SoldLimit\":2},{\"ProductId\":5,\"StartTime\":1542530848,\"EndTime\":1543567648,\"Status\":0,\"Total\":1002,\"Left\":0,\"OnePersonBuyLimit\":2,\"BuyRate\":0.9,\"SoldLimit\":5}]"
+
+2018/11/18 20:08:45.270 [D] [asm_amd64.s:2361] get config from etcd succ, [{1032 1539936089 1640523153 0 10000 10000 <nil> 0 0 0} {1042 1539936089 1540521968 0 10000 10000 <nil> 0 0 0} {1052 1640521968 1740108889 0 900 900 <nil> 0 0 0} {2 1542530848 1543567648 0 10 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 0 0 0.8} {4 1542530848 1543567648 0 1001 0 <nil> 1 0 0.8} {5 1542530848 1543567648 0 1002 0 <nil> 2 0 0.8} {5 1542530848 1543567648 0 1002 0 <nil> 5 2 0.9}]
+2018/11/18 20:09:07.913 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":5,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T20:09:07.903934582+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 20:09:07.925 [D] [asm_amd64.s:2361] begin process request: &{5     0  2018-11-18 20:09:07.903934582 +0800 CST 127.0.0.1 }
+2018/11/18 20:09:07.929 [D] [redis.go:140] product check succ
+2018/11/18 20:09:07.929 [D] [redis.go:140] product soldlimit: 5
+2018/11/18 20:09:07.929 [D] [redis.go:140] speed limit succ
+2018/11/18 20:09:07.929 [D] [redis.go:140] num one user per product check succ
+2018/11/18 20:09:07.929 [D] [redis.go:140] before lottery
+2018/11/18 20:09:07.930 [D] [redis.go:140] curRate:0.6046602879796196 product:0.9 count:0 total:1002
+
+2018/11/18 20:09:07.931 [D] [redis.go:222] product_id: 5, cur: 0, map: map[]
+2018/11/18 20:09:07.931 [D] [redis.go:140] lottery succ
+2018/11/18 20:09:07.931 [D] [redis.go:140] userId=0&productId=5timestamp=1542542947&security=u1aoNP9DNumlseGxG36cveUlRwWtsmHawW3wDzhZmO7rwIVRcshoirIXjpInEdCV
+2018/11/18 20:09:07.931 [D] [redis.go:140] b4b2349aa7e1e0b69da50729c2fc31a9
+2018/11/18 20:09:07.931 [D] [asm_amd64.s:2361] handel user res: &{5 0 b4b2349aa7e1e0b69da50729c2fc31a9 1542542947 1002}
+2018/11/18 20:09:13.134 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":5,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T20:09:13.132914864+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 20:09:13.134 [D] [asm_amd64.s:2361] begin process request: &{5     0  2018-11-18 20:09:13.132914864 +0800 CST 127.0.0.1 }
+2018/11/18 20:09:13.135 [D] [redis.go:140] product check succ
+2018/11/18 20:09:13.135 [D] [redis.go:140] product soldlimit: 5
+2018/11/18 20:09:13.135 [D] [redis.go:140] speed limit succ
+2018/11/18 20:09:13.135 [D] [redis.go:140] num one user per product check succ
+2018/11/18 20:09:13.135 [D] [redis.go:140] before lottery
+2018/11/18 20:09:13.135 [D] [redis.go:140] curRate:0.9405090880450124 product:0.9 count:1 total:1002
+
+2018/11/18 20:09:13.135 [D] [asm_amd64.s:2361] handel user res: &{5 0  0 1005}
+2018/11/18 20:09:35.837 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":5,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T20:09:35.82827913+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 20:09:35.842 [D] [asm_amd64.s:2361] begin process request: &{5     0  2018-11-18 20:09:35.82827913 +0800 CST 127.0.0.1 }
+2018/11/18 20:09:35.844 [D] [redis.go:140] product check succ
+2018/11/18 20:09:35.844 [D] [redis.go:140] product soldlimit: 5
+2018/11/18 20:09:35.844 [D] [redis.go:140] speed limit succ
+2018/11/18 20:09:35.844 [D] [redis.go:140] num one user per product check succ
+2018/11/18 20:09:35.845 [D] [redis.go:140] before lottery
+2018/11/18 20:09:35.845 [D] [redis.go:140] curRate:0.6645600532184904 product:0.9 count:1 total:1002
+
+2018/11/18 20:09:35.845 [D] [redis.go:222] else product_id: 5, cur: 1, map: map[5:1]
+2018/11/18 20:09:35.845 [D] [redis.go:140] lottery succ
+2018/11/18 20:09:35.845 [D] [redis.go:140] userId=0&productId=5timestamp=1542542975&security=u1aoNP9DNumlseGxG36cveUlRwWtsmHawW3wDzhZmO7rwIVRcshoirIXjpInEdCV
+2018/11/18 20:09:35.846 [D] [redis.go:140] fa25498b13c72c4b17132fc0a02fd232
+2018/11/18 20:09:35.846 [D] [asm_amd64.s:2361] handel user res: &{5 0 fa25498b13c72c4b17132fc0a02fd232 1542542975 1002}
+2018/11/18 20:09:40.394 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":5,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T20:09:40.39382923+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 20:09:40.394 [D] [asm_amd64.s:2361] begin process request: &{5     0  2018-11-18 20:09:40.39382923 +0800 CST 127.0.0.1 }
+2018/11/18 20:09:40.394 [D] [redis.go:140] product check succ
+2018/11/18 20:09:40.394 [D] [redis.go:140] product soldlimit: 5
+2018/11/18 20:09:40.394 [D] [redis.go:140] speed limit succ
+2018/11/18 20:09:40.395 [D] [asm_amd64.s:2361] handel user res: &{5 0  0 1006}
+2018/11/18 20:10:41.268 [D] [asm_amd64.s:2361] pop from queue, data: {"ProductId":5,"Source":"","Authcode":"","SecTime":"","Nance":"","UserId":0,"AccessTime":"2018-11-18T20:10:41.264769802+08:00","UserAuthSign":"","ClientAddr":"127.0.0.1","ClientReference":""}
+2018/11/18 20:10:41.271 [D] [asm_amd64.s:2361] begin process request: &{5     0  2018-11-18 20:10:41.264769802 +0800 CST 127.0.0.1 }
+2018/11/18 20:10:41.271 [D] [redis.go:140] product check succ
+2018/11/18 20:10:41.271 [D] [redis.go:140] product soldlimit: 5
+2018/11/18 20:10:41.271 [D] [redis.go:140] speed limit succ
+2018/11/18 20:10:41.271 [D] [asm_amd64.s:2361] handel user res: &{5 0  0 1006}

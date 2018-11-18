@@ -57,7 +57,7 @@ type SecKillConf struct {
 	ReadLayer2ProxyGoroutineNum  int
 	RwSecProductLock             sync.RWMutex
 	RwBlackLock                  sync.RWMutex
-	secReqChan                   chan *SecRequest
+	SecReqChan                   chan *SecRequest
 	secReqChanSize               int
 	UserConnMap                  map[string]chan *SecResult
 	UserConnMapLock              sync.Mutex

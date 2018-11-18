@@ -89,7 +89,7 @@ func loadSecConf() (err error) {
 	}
 	var secProductInfo []service.SecProductInfoConf
 	for k, v := range resp.Kvs {
-		logs.Debug("key[%s] : value[%s]", k, v)
+		logs.Debug("key[%d] : value[%s]", k, v)
 		err = json.Unmarshal(v.Value, &secProductInfo)
 		if err != nil {
 			logs.Error("unmarshal sec product info failed, err: %v", err)

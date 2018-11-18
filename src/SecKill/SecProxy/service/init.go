@@ -33,7 +33,7 @@ func InitService(serviceConf *SecKillConf) (err error) {
 		UserLimitMap: make(map[int]*Limit, 10000),
 		IpLimitMap:   make(map[string]*Limit, 10000),
 	}
-	secKillConf.secReqChan = make(chan *SecRequest, 1000)
+	secKillConf.SecReqChan = make(chan *SecRequest, 1000)
 	secKillConf.UserConnMap = make(map[string]chan *SecResult, 10000)
 
 	initRedisProcessFunc()

@@ -13,7 +13,7 @@ func WriteHandle() {
 	// 往 chan secReqChan 里面写请求数据，
 	// 业务逻辑层来处理，处理之后写入 redis, 另一个再来读取
 	for {
-		req := <-secKillConf.secReqChan
+		req := <-secKillConf.SecReqChan
 		conn := secKillConf.proxy2LayerRedisPool.Get()
 		data, err := json.Marshal(req)
 		if err != nil {
@@ -21,7 +21,7 @@ func WriteHandle() {
 			conn.Close()
 			continue
 		}
-		_, err = conn.Do("LPUSH", "sec_query", string(data))
+		_, err = conn.Do("LPUSH", "sec_queue", string(data))
 		if err != nil {
 			logs.Error("LPUSH failed, err: %v, req: %v", err, req)
 			conn.Close()
@@ -29,7 +29,6 @@ func WriteHandle() {
 		}
 		conn.Close()
 	}
-
 }
 
 func ReadHandle() {

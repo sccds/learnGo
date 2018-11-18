@@ -31,6 +31,7 @@ func initLogger() (err error) {
 		fmt.Println("init logger failed, marshal err: ", err)
 		return
 	}
+	logs.SetLogger(logs.AdapterConsole)
 	logs.SetLogger(logs.AdapterFile, string(configStr))
 	beego.SetLogFuncCall(true)
 

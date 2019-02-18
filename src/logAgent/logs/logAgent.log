@@ -1,0 +1,176 @@
+2019/01/14 19:14:57.969 [D] load conf succ, conf: &{debug /Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log 0 [{/Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log nginx_log}]}
+2019/01/14 19:14:57.969 [D] initialize all succ
+2019/01/14 19:14:57.969 [D] test for logger 1
+2019/01/14 19:14:58.970 [D] test for logger 2
+2019/01/14 19:14:59.976 [D] test for logger 3
+2019/01/14 19:15:00.980 [D] test for logger 4
+2019/01/14 19:15:01.986 [D] test for logger 5
+2019/01/14 19:15:02.990 [D] test for logger 6
+2019/01/14 19:15:03.992 [D] test for logger 7
+2019/01/14 19:15:04.992 [D] test for logger 8
+2019/01/14 21:38:28.623 [D] load conf succ, conf: &{debug /Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log 0 [{/Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log nginx_log}]}
+2019/01/14 21:38:28.623 [D] initialize all succ
+2019/01/14 21:38:28.624 [D] test for logger 1
+2019/01/14 21:38:29.630 [D] test for logger 2
+2019/01/14 21:38:30.634 [D] test for logger 3
+2019/01/14 21:38:31.635 [D] test for logger 4
+2019/01/14 21:38:32.637 [D] test for logger 5
+2019/01/14 21:38:33.641 [D] test for logger 6
+2019/01/14 21:38:34.647 [D] test for logger 7
+2019/01/14 21:38:35.649 [D] test for logger 8
+2019/01/14 21:38:36.654 [D] test for logger 9
+2019/01/14 21:38:37.656 [D] test for logger 10
+2019/01/14 21:58:22.862 [D] load conf succ, conf: &{debug /Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log 0 127.0.0.1:9092 [{/Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log nginx_log}]}
+2019/01/14 21:58:22.862 [D] initialize all succ
+2019/01/14 21:58:22.885 [D] init kafka succ
+2019/01/14 21:58:22.885 [D] test for logger 1
+2019/01/14 21:58:23.889 [D] test for logger 2
+2019/01/14 21:58:24.892 [D] test for logger 3
+2019/01/14 21:58:25.893 [D] test for logger 4
+2019/01/14 21:58:26.897 [D] test for logger 5
+2019/01/14 21:58:27.901 [D] test for logger 6
+2019/01/14 21:58:28.906 [D] test for logger 7
+2019/01/14 21:58:29.907 [D] test for logger 8
+2019/01/14 21:58:30.908 [D] test for logger 9
+2019/01/14 21:58:31.912 [D] test for logger 10
+2019/01/14 21:58:32.917 [D] test for logger 11
+2019/01/14 21:58:33.917 [D] test for logger 12
+2019/01/14 21:58:34.918 [D] test for logger 13
+2019/01/14 21:58:35.918 [D] test for logger 14
+2019/01/14 21:59:07.325 [D] load conf succ, conf: &{debug /Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log 0 127.0.0.1:9092 [{/Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log test}]}
+2019/01/14 21:59:07.325 [D] initialize all succ
+2019/01/14 21:59:07.329 [D] init kafka succ
+2019/01/14 21:59:07.329 [D] test for logger 1
+2019/01/14 21:59:08.332 [D] test for logger 2
+2019/01/14 21:59:09.335 [D] test for logger 3
+2019/01/14 21:59:10.337 [D] test for logger 4
+2019/01/14 21:59:11.342 [D] test for logger 5
+2019/01/14 21:59:12.348 [D] test for logger 6
+2019/01/14 21:59:13.351 [D] test for logger 7
+2019/01/14 21:59:14.355 [D] test for logger 8
+2019/01/14 21:59:15.358 [D] test for logger 9
+2019/01/14 21:59:16.363 [D] test for logger 10
+2019/01/14 21:59:17.368 [D] test for logger 11
+2019/01/14 21:59:18.371 [D] test for logger 12
+2019/01/14 21:59:19.375 [D] test for logger 13
+2019/01/14 21:59:20.377 [D] test for logger 14
+2019/01/14 21:59:21.383 [D] test for logger 15
+2019/01/14 21:59:22.383 [D] test for logger 16
+2019/01/14 21:59:23.387 [D] test for logger 17
+2019/01/14 21:59:24.391 [D] test for logger 18
+2019/01/14 21:59:25.392 [D] test for logger 19
+2019/01/14 21:59:26.396 [D] test for logger 20
+2019/01/14 21:59:27.399 [D] test for logger 21
+2019/01/23 17:19:34.917 [D] load conf succ, conf: &{debug /Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log 0 127.0.0.1:9092 127.0.0.1:2379 /logagent/config/ip {path:c:/code, topic:test}, {path:c:/code/1.txt, topic:world} [{/Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log test}]}
+2019/01/23 17:19:34.920 [D] resp from etcd:[]
+2019/01/23 17:19:34.920 [D] initialize initEtcd succ
+2019/01/23 17:19:34.920 [E] init tail failed, err: invalid conf
+2019/01/23 17:19:34.920 [D] initialize all succ
+2019/01/23 17:19:35.683 [E] init tail failed, err: kafka: client has run out of available brokers to talk to (Is your cluster reachable?)
+2019/01/23 17:38:51.430 [D] load conf succ, conf: &{debug /Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log 0 127.0.0.1:9092 127.0.0.1:2379 /logagent/config/ip {path:c:/code, topic:test}, {path:c:/code/1.txt, topic:world} [{/Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log test}]}
+2019/01/23 17:38:51.442 [D] resp from etcd:[]
+2019/01/23 17:38:51.442 [D] initialize initEtcd succ
+2019/01/23 17:38:51.442 [E] init tail failed, err: invalid conf
+2019/01/23 17:38:51.442 [D] initialize all succ
+2019/01/23 17:38:52.203 [E] init tail failed, err: kafka: client has run out of available brokers to talk to (Is your cluster reachable?)
+2019/01/23 17:40:11.744 [D] load conf succ, conf: &{debug /Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log 0 127.0.0.1:9092 127.0.0.1:2379 /logagent/config/ip {path:c:/code, topic:test}, {path:c:/code/1.txt, topic:world} [{/Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log test}]}
+2019/01/23 17:40:11.753 [D] resp from etcd:[]
+2019/01/23 17:40:11.753 [D] initialize initEtcd succ
+2019/01/23 17:40:11.753 [E] init tail failed, err: invalid conf
+2019/01/23 17:40:11.753 [D] initialize all succ
+2019/01/23 17:40:11.767 [D] init kafka succ
+2019/01/23 17:40:11.767 [D] test for logger 1
+2019/01/23 17:40:12.772 [D] test for logger 2
+2019/01/23 17:40:13.776 [D] test for logger 3
+2019/01/23 17:40:14.777 [D] test for logger 4
+2019/01/23 17:40:15.782 [D] test for logger 5
+2019/01/23 17:40:16.782 [D] test for logger 6
+2019/01/23 17:40:17.787 [D] test for logger 7
+2019/01/23 17:42:09.042 [D] load conf succ, conf: &{debug /Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log 0 127.0.0.1:9092 127.0.0.1:2379 /logagent/config/ip {path:c:/code, topic:test}, {path:c:/code/1.txt, topic:world} [{/Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log test}]}
+2019/01/23 17:42:09.050 [D] resp from etcd:[]
+2019/01/23 17:42:09.050 [D] initialize initEtcd succ
+2019/01/23 17:42:09.050 [E] init tail failed, err: invalid conf
+2019/01/23 17:42:09.050 [D] initialize all succ
+2019/01/23 17:42:09.057 [D] init kafka succ
+2019/01/23 17:42:09.057 [D] test for logger 1
+2019/01/23 17:42:10.057 [D] test for logger 2
+2019/01/23 17:42:11.059 [D] test for logger 3
+2019/01/23 17:42:12.062 [D] test for logger 4
+2019/01/23 17:42:13.064 [D] test for logger 5
+2019/01/23 17:42:14.069 [D] test for logger 6
+2019/01/23 17:42:15.070 [D] test for logger 7
+2019/01/23 17:42:16.071 [D] test for logger 8
+2019/01/23 17:42:17.071 [D] test for logger 9
+2019/01/23 17:42:18.072 [D] test for logger 10
+2019/01/23 17:42:19.072 [D] test for logger 11
+2019/01/23 17:42:20.073 [D] test for logger 12
+2019/01/23 17:42:21.073 [D] test for logger 13
+2019/01/23 17:43:10.730 [D] load conf succ, conf: &{logLevel:debug logPath:/Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log chanSize:0 kafkaAddr:127.0.0.1:9092 etcdAddr:127.0.0.1:2379 etcdKey:/logagent/config/ip {path:c:/code, topic:test}, {path:c:/code/1.txt, topic:world} collectConf:[{LogPath:/Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log Topic:test}]}
+2019/01/23 17:43:10.732 [D] resp from etcd:[]
+2019/01/23 17:43:10.732 [D] initialize initEtcd succ
+2019/01/23 17:43:10.732 [E] init tail failed, err: invalid conf
+2019/01/23 17:43:10.733 [D] initialize all succ
+2019/01/23 17:43:10.736 [D] init kafka succ
+2019/01/23 17:43:10.736 [D] test for logger 1
+2019/01/23 17:43:11.736 [D] test for logger 2
+2019/01/23 17:43:12.739 [D] test for logger 3
+2019/01/23 17:43:13.741 [D] test for logger 4
+2019/01/23 17:43:14.746 [D] test for logger 5
+2019/01/23 17:43:15.746 [D] test for logger 6
+2019/01/23 17:43:16.748 [D] test for logger 7
+2019/01/23 17:43:17.752 [D] test for logger 8
+2019/01/23 17:43:18.755 [D] test for logger 9
+2019/01/23 17:43:19.758 [D] test for logger 10
+2019/01/23 17:43:20.759 [D] test for logger 11
+2019/01/23 17:43:21.761 [D] test for logger 12
+2019/01/23 17:43:22.764 [D] test for logger 13
+2019/01/23 17:43:23.766 [D] test for logger 14
+2019/01/23 17:43:24.769 [D] test for logger 15
+2019/01/23 17:43:25.773 [D] test for logger 16
+2019/01/23 17:43:26.773 [D] test for logger 17
+2019/01/23 17:43:27.774 [D] test for logger 18
+2019/01/23 17:43:28.774 [D] test for logger 19
+2019/01/23 17:43:29.782 [D] test for logger 20
+2019/01/23 17:43:30.782 [D] test for logger 21
+2019/01/23 17:43:31.783 [D] test for logger 22
+2019/01/23 17:43:32.788 [D] test for logger 23
+2019/01/23 17:43:33.793 [D] test for logger 24
+2019/01/23 17:43:34.797 [D] test for logger 25
+2019/01/23 17:43:35.800 [D] test for logger 26
+2019/01/23 17:43:36.801 [D] test for logger 27
+2019/01/23 17:43:37.805 [D] test for logger 28
+2019/01/23 18:24:07.070 [D] load conf succ, conf: &{logLevel:debug logPath:/Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log chanSize:0 kafkaAddr:127.0.0.1:9092 etcdAddr:127.0.0.1:2379 etcdKey:/logagent/config/ip {path:c:/code, topic:test}, {path:c:/code/1.txt, topic:world} collectConf:[{LogPath:/Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log Topic:test}]}
+2019/01/23 18:24:07.073 [D] resp from etcd:[]
+2019/01/23 18:24:07.073 [D] initialize initEtcd succ
+2019/01/23 18:24:07.073 [E] init tail failed, err: invalid conf
+2019/01/23 18:24:07.073 [D] initialize all succ
+2019/01/23 18:24:07.073 [D] begin watch key: /logagent/config/ip {path:c:/code, topic:test}, {path:c:/code/1.txt, topic:world}/192.168.31.7
+2019/01/23 18:24:07.077 [D] init kafka succ
+2019/01/23 18:24:07.077 [D] test for logger 1
+2019/01/23 18:24:08.079 [D] test for logger 2
+2019/01/23 18:24:09.082 [D] test for logger 3
+2019/01/23 18:24:10.083 [D] test for logger 4
+2019/01/23 18:24:11.084 [D] test for logger 5
+2019/01/23 18:25:37.489 [D] load conf succ, conf: &{logLevel:debug logPath:/Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log chanSize:0 kafkaAddr:127.0.0.1:9092 etcdAddr:127.0.0.1:2379 etcdKey:/logagent/config/ip {path:c:/code, topic:test}, {path:c:/code/1.txt, topic:world} collectConf:[{LogPath:/Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log Topic:test}]}
+2019/01/23 18:25:37.492 [D] resp from etcd:[]
+2019/01/23 18:25:37.492 [D] initialize initEtcd succ
+2019/01/23 18:25:37.492 [E] init tail failed, err: invalid conf
+2019/01/23 18:25:37.492 [D] initialize all succ
+2019/01/23 18:25:37.492 [D] begin watch key: /logagent/config/ip {path:c:/code, topic:test}, {path:c:/code/1.txt, topic:world}/192.168.31.7
+2019/01/23 18:25:37.497 [D] init kafka succ
+2019/01/23 18:25:37.497 [D] test for logger 1
+2019/01/23 18:25:38.498 [D] test for logger 2
+2019/01/23 18:25:39.502 [D] test for logger 3
+2019/01/23 18:25:40.503 [D] test for logger 4
+2019/01/23 18:25:41.505 [D] test for logger 5
+2019/01/23 18:28:48.282 [D] load conf succ, conf: &{logLevel:debug logPath:/Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log chanSize:0 kafkaAddr:127.0.0.1:9092 etcdAddr:127.0.0.1:2379 etcdKey:/logagent/config/ip {path:c:/code, topic:test}, {path:c:/code/1.txt, topic:world} collectConf:[{LogPath:/Users/xliu/Documents/51CTO_Golang/learnGo/src/logAgent/logs/logAgent.log Topic:test}]}
+2019/01/23 18:28:48.284 [D] resp from etcd: []
+2019/01/23 18:28:48.284 [D] initialize initEtcd succ
+2019/01/23 18:28:48.284 [E] init tail failed, err: invalid conf
+2019/01/23 18:28:48.284 [D] initialize all succ
+2019/01/23 18:28:48.284 [D] begin watch key: /logagent/config/ip {path:c:/code, topic:test}, {path:c:/code/1.txt, topic:world}/192.168.31.7
+2019/01/23 18:28:48.287 [D] init kafka succ
+2019/01/23 18:28:48.287 [D] test for logger 1
+2019/01/23 18:28:49.292 [D] test for logger 2
+2019/01/23 18:28:50.297 [D] test for logger 3
+2019/01/23 18:28:51.299 [D] test for logger 4
